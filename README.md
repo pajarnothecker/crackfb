@@ -1,22 +1,24 @@
 # crackfb
 
 
-# pkg update && pkg upgrade
+ pkg update && pkg upgrade
 
 
-# pip install requests
+ pip install requests
 
 
-# pip install bs4
+ pip install bs4
 
 
-# pip install mechanize
+ pip install mechanize
 
 
-# pkg install python 
+ pkg install python 
 
 
-# pkg install git
+ pkg install git
+
+ 
 
 
 
